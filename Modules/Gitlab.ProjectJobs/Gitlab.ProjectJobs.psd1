@@ -33,7 +33,7 @@ Copyright = '(c) Robert Fewster. All rights reserved.'
 Description = 'Tools fetching and summarinzing Gitlab Pipeline Jobs by Project'
 
 # Minimum version of the PowerShell engine required by this module
-PowerShellVersion = '7.2'
+PowerShellVersion = '7.1'
 
 # Name of the PowerShell host required by this module
 # PowerShellHostName = ''
